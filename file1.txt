@@ -1,0 +1,14 @@
+cd-----change directory
+pwd---present work directory
+ls----to see list of file
+mkdir---to create folder
+touch---to create a file
+ls -l----to see file details
+vi/nano---editor
+cat----to see what file contains
+grep----to get a string value from file
+sudo---admin power
+chmod---to change file permission
+rm---remove
+cp----copy
+
